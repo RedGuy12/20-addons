@@ -40,7 +40,7 @@
 		"eslint": "8.10.0",
 		"nodemon": "2.0.15",
 		"openode": "2.1.6",
-		"prettier": "2.5.1",
+		"prettier": "2.6.1",
 		"prettier-package-json": "2.6.0",
 		"typescript": "4.5.5"
 	},
