@@ -42,7 +42,7 @@
 		"openode": "2.1.6",
 		"prettier": "2.5.1",
 		"prettier-package-json": "2.6.0",
-		"typescript": "4.5.5"
+		"typescript": "4.6.4"
 	},
 	"keywords": [
 		"20",
